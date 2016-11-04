@@ -7,3 +7,7 @@ Based on the [pact-mock-service Docker image](https://github.com/madkom/docker/t
 ## Versions
 
 The versions of this image will be in sync with the version of the **pact-mock-service** gem.
+
+## License
+
+The MIT License applies to the files on this repository. See [LICENSE](LICENSE)
